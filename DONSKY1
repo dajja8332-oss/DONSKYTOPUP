@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DONSKYTOPUP - Top Up Game Murah</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">DONSKY<span>TOPUP</span></div>
+  <nav>
+    <a href="#">Beranda</a>
+    <a href="#">Game</a>
+    <a href="#">Promo</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Top Up Game Cepat & Aman</h1>
+  <p>Mobile Legends, Free Fire, PUBG, Valorant, dan lainnya</p>
+  <button>Mulai Top Up</button>
+</section>
+
+<section class="games">
+  <h2>🔥 Game Populer</h2>
+  <div class="game-list">
+    <div class="game">Mobile Legends</div>
+    <div class="game">Free Fire</div>
+    <div class="game">PUBG Mobile</div>
+    <div class="game">Genshin Impact</div>
+    <div class="game">Valorant</div>
+    <div class="game">Honkai Star Rail</div>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 DONSKYTOPUP. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
+
